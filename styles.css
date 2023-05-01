@@ -1,1 +1,26 @@
-/*  your css code here. If applicable */
+.container{
+	display: flex;
+	gap: 2rem;
+}
+#logo{
+	color: blue;	
+}
+#desc{
+	font-weight: 600;
+}
+#log{
+	background: blue;
+	border: none;
+	color: white;
+	
+}
+#account{
+	background: green;
+	border: none;
+	color: white;
+	padding: 3px 10px;
+}
+#p{
+	border-bottom: 2px solid black;
+	padding-bottom: 10px;
+}
